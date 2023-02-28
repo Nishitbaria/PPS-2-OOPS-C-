@@ -17,3 +17,10 @@
 |  13.      |       Module-13        |           [Click here](https://github.com/Nishitbaria/PPS-2-OOPS-C-/tree/main/Module13)     |
 |  14.      |       Module-14        |          [Click here](https://github.com/Nishitbaria/PPS-2-OOPS-C-/tree/main/Module14)      |
 |  15.      |       Module-15(OEP)        |        [N/A]       |
+
+
+### Adding Some Good resource too Learn C++ 
+## 1]   [ C++ Programming Course - Beginner to Advanced](https://youtu.be/8jLOx1hD3_o)
+## 2]   [Complete C++ Placement DSA Course](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
+
+### If Want to Contribute Fork and if You Like Star✨ it so you can find it easly 🧐
