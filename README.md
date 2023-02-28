@@ -2,8 +2,8 @@
 ## Solution of Lab manual of PPS2(C++) 
 | Module No | Module Name    | Module Link    |
 |-----------|---------------|-----------------|
-|   1.      |       LEARN CONCEPTS OF OOP         |                 |
-|   2.      |           CONCEPTS OF OOP USING C++     |                 |
+|   1.      |       LEARN CONCEPTS OF OOP         |          [Click here]()       |
+|   2.      |           CONCEPTS OF OOP USING C++     |      [Click here](https://github.com/Nishitbaria/PPS-2-OOPS-C-/tree/main/Module2)            |
 |   3.      |         DEFAULT ARGUMENTS AND FUNCTION OVERLOADING       |                 |
 |   4.      |        CLASS AND OBJECTS       |                 |
 |   5.      |            ARRAY OF OBJECTS    |                 |
